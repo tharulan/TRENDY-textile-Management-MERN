@@ -5,7 +5,7 @@ Introducing 🌐 TrendTex Manager 🧵 – Your Ultimate Textile Management Solu
 
 Briefly describe your project, its purpose, and main features. Highlight any unique selling points or key functionalities.
 
-# Project View
+## Project View
 <p align="center">
   <img src="https://github.com/tharulan/TRENDY-textile-Management-MERN/assets/110823023/f92e13cf-0396-440c-9f51-ee0ed5f9ca45" alt="Image 1" width="200"/>
   <img src="https://github.com/tharulan/TRENDY-textile-Management-MERN/assets/110823023/69142bc4-a2d8-477d-843d-f851511b475f" alt="Image 2" width="200"/>
