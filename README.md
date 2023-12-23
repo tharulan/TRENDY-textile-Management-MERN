@@ -16,7 +16,6 @@ Briefly describe your project, its purpose, and main features. Highlight any uni
   <img src="https://github.com/tharulan/TRENDY-textile-Management-MERN/assets/110823023/1d566ba3-d519-41b6-a391-3309f4f458a4" alt="Image 7" width="200"/>
   <img src="https://github.com/tharulan/TRENDY-textile-Management-MERN/assets/110823023/a0e6116f-c4bc-42a3-86e5-f3928208d8a1" alt="Image 8" width="200"/>
 </p>
-
 ## Technologies Used
 
 - **MongoDB**: 🍃 A non-SQL document-oriented database.
